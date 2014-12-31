@@ -1,0 +1,8 @@
+{
+Cint asad :
+$var you == 4 + 5 :
+$var2 == 54 + 4 :
+till $var23 >> $var2 :
+till !! ] :
+}
+}
